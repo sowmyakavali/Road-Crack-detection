@@ -1,0 +1,6 @@
+classes=4
+train=./Data/train.txt
+valid=./Data/val.txt
+names=./config/coco.names
+backup=./backup/
+
